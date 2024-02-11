@@ -29,10 +29,10 @@ This file contains an array of country codes used in the dropdown list for selec
 - JavaScript: Programming language for adding interactivity to web pages
 
 ## Demo Images
-1. ![Step 1](src/public/images/step1.jpg)
-2. ![Step 2](src/public/images/step2.jpg)
-3. ![Step 3](src/public/images/step3.jpg)
-4. ![Final](src/public/images/final.jpg)
+1. ![Step 1](public/images/step1.jpg)
+2. ![Step 2](public/images/step2.jpg)
+3. ![Step 3](public/images/step3.jpg)
+4. ![Final](public/images/final.jpg)
 
 ## Usage
 To use the OTP Login Form component in your project:
